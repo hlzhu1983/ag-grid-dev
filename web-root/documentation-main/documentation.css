@@ -1,0 +1,74 @@
+.bigTitle {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.smallTitle {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.inline {
+    border: 1px solid darkgrey;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+.block {
+    border: 1px solid darkgrey;
+    padding: 5px;
+    margin: 5px;
+}
+.agClass {
+    font-weight: bold;
+    color: black;
+}
+.agAttr {
+    font-weight: bold;
+    color: blue;
+}
+.agPos {
+    font-weight: bold;
+    color: darkgreen;
+}
+.codeBlock {
+    border: 1px solid darkgrey;
+    padding: 5px;
+    margin: 5px;
+    color: grey;
+}
+.note {
+    border: 1px solid darkgrey;
+    padding: 5px;
+    margin: 5px;
+    background-color: lightyellow;
+}
+
+.sidebarLink {
+    padding: 2px 4px 2px 4px;
+    /*border-bottom: 1px solid #e8e8e8;*/
+    display: block;
+    color: #888;
+}
+
+.sidebarLink:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+.sidebarLinkSelected {
+    padding: 2px 4px 2px 4px;
+    /*border-bottom: 1px solid #e8e8e8;*/
+    display: block;
+    background-color: #eee;
+    color: #333;
+}
+
+h4 {
+    margin-top: 30px;
+}
+
